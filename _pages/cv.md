@@ -11,11 +11,11 @@ redirect_from:
 
 ## 📍 Education
 
-**Li-siguang Geophysics Training Program**, Jilin University, Changchun, China  
+Li-siguang Geophysics Training Program, **Jilin University**, Changchun, China  
 **B.Sc. in Geophysics**  
 *September 2017 – June 2021*
 
-**School of Earth and Space Sciences**, University of Science and Technology of China (USTC), Hefei, China  
+School of Earth and Space Sciences, **University of Science and Technology of China (USTC)**, Hefei, China  
 **Ph.D. in Geophysics** *(Supervisor: Prof. Zhongqing Wu)*  
 *September 2021 – June 2026*
 
