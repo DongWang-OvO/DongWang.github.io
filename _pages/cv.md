@@ -23,9 +23,9 @@ Jointing Ph.D. Student in Geophysics (Supervisor: Prof. Razvan Caracas)         
   
 RESEARCH INTERESTS 
 ======
-	Ab initio calculations and machine learning-based molecular dynamics simulations
-	Evolution of the early Earth
-	Structure and dynamics of the deep Earth
+Ab initio calculations and machine learning-based molecular dynamics simulations
+Evolution of the early Earth
+Structure and dynamics of the deep Earth
 
 Publications
 ======
@@ -35,7 +35,13 @@ Publications
 [4]	Dong Wang, Zhongqing Wu. (2025). Water-Induced Mantle Overturn Provides a Unifying Explanation for Paleomagnetic Records and Formation of Archean Continents. National Science Review. (Under review).
 [5]	Feiyang Xu, Dong Wang, et al. (2024) Large-scale simulation of thermal conductivity in CaSiO3 perovskite with neuroevolution potential. Appl. Phys. Lett, 125 (3): 034104.
 
-Talks
-======
-
   
+HONORS AND AWARDS
+======
+National Scholarship for Undergraduate Student, 2019
+Outstanding Graduate, 2021
+Outstanding Student Presentation Award, CGU Fall General Assembly, 2022
+National Scholarship for Graduate Student, 2023
+Best Poster Award, IPACES General Assembly, 2023
+Outstanding Achievement Award of Deep Space Exploration Lab, 2024
+Outstanding Student and PhD candidate Presentation (OSPP) Award, EGU General Assembly, 2024
