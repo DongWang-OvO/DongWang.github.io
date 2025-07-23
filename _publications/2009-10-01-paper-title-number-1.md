@@ -1,14 +1,20 @@
----
-title: "Paper Title Number 1"
-collection: publications
-category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
----
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+
+1. **Dong Wang**, Zhongqing Wu, Xin Deng. (2022).  
+   *Thermal Conductivity of Hydrous Wadsleyite Determined by Non-Equilibrium Molecular Dynamics Based on Machine Learning.*  
+   _Geophysical Research Letters_, 49(22), e2022GL100337.  
+
+2. **Dong Wang**, Zhongqing Wu, Xin Deng. (2023).  
+   *Thermal conductivity of Fe-bearing bridgmanite and post-perovskite: Implications for the heat flux from the core.*  
+   _Earth and Planetary Science Letters_, 621, 118368.
+
+3. **Dong Wang**, Longyu Duan, Xin Deng, Wenzhong Wang, Zhongqing Wu. (2025).  
+   *Seismic Signature of the Upper Continental Crust: Implications from the thermoelastic properties of Liebermannite and K-hollandite II.*  
+   _American Mineralogist._
+
+4. **Dong Wang**, Zhongqing Wu. (2025).  
+   *Water-Induced Mantle Overturn Provides a Unifying Explanation for Paleomagnetic Records and Formation of Archean Continents.*  
+   _National Science Review._ (Under review)
+
+5. Feiyang Xu, **Dong Wang**, et al. (2024).  
+   *Large-scale simulation of thermal conductivity in CaSiO₃ perovskite with neuroevolution potential.*  
+   _Applied Physics Letters_, 125(3): 034104.
