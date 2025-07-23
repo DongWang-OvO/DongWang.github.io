@@ -11,54 +11,31 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+Li-siguang Geophysics Training Program, Jilin University, Changchun, China.                     
+B.Sc. in Geophysics														                                                           September 2017 – June 2021
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+School of Earth and Space Sciences, University of Science and Technology of China (USTC), Hefei, China. 
+Ph.D. in Geophysics (Supervisor: Prof. Zhongqing Wu)     						                                     September 2021 – June 2026
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+Institut de physique du globe de Paris (IPGP), Université Paris Cité, Paris, France.               	
+Jointing Ph.D. Student in Geophysics (Supervisor: Prof. Razvan Caracas)                                  March 2025 – March 2026
   
-Skills
+  
+RESEARCH INTERESTS 
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+	Ab initio calculations and machine learning-based molecular dynamics simulations
+	Evolution of the early Earth
+	Structure and dynamics of the deep Earth
 
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+[1]	Dong Wang, Zhongqing Wu, Xin, Deng. (2022). Thermal Conductivity of Hydrous Wadsleyite Determined by Non-Equilibrium Molecular Dynamics Based on Machine Learning. Geophysical Research Letters, 49(22), e2022GL100337. 
+[2]	Dong Wang, Zhongqing Wu, & Xin, Deng. (2023). Thermal conductivity of Fe-bearing bridgmanite and post-perovskite: Implications for the heat flux from the core. Earth and Planetary Science Letters, 621, 118368. 
+[3]	Dong Wang, Longyu Duan, Xin Deng, Wenzhong Wang, Zhongqing Wu (2025). Seismic Signature of the Upper Continental Crust: Implications from the thermoelastic properties of Liebermannite and K-hollandite II. American Mineralogist.
+[4]	Dong Wang, Zhongqing Wu. (2025). Water-Induced Mantle Overturn Provides a Unifying Explanation for Paleomagnetic Records and Formation of Archean Continents. National Science Review. (Under review).
+[5]	Feiyang Xu, Dong Wang, et al. (2024) Large-scale simulation of thermal conductivity in CaSiO3 perovskite with neuroevolution potential. Appl. Phys. Lett, 125 (3): 034104.
+
 Talks
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
+
   
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
